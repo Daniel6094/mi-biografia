@@ -8,3 +8,6 @@
 - Jugar videojuegos
 - Escuchar música
 - Ver series
+
+## Contacto
+- Correo: profe@uca.ac.cr.com
