@@ -3,3 +3,8 @@
 **Nombre completo:** [Daniel Alberto Vega Vives]
 **Edad:** [31]
 **Carrera:** [Ingeniería informatica]
+
+## Hobbies
+- Jugar videojuegos
+- Escuchar música
+- Ver series
